@@ -17,7 +17,7 @@ a{
 img {
     width: 150px;
     height: 150px;
-    border-radius: 50%;
+    border-radius: 25%;
     border: 25px solid green;
 }
 
