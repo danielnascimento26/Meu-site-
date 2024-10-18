@@ -18,7 +18,7 @@ img {
     width: 150px;
     height: 150px;
     border-radius: 25%;
-    border: 25px solid green;
+    border: 25px solid rgb(255, 0, 0);
 }
 
 .center {
